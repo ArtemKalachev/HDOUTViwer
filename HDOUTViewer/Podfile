@@ -3,6 +3,8 @@
 # Uncomment this line if you're using Swift
 # use_frameworks!
 
+pod 'KissXML', '~> 5.0'
+
 target 'HDOUTViewer' do
 
 end

@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  AKEpisodeDetails.m
 //  HDOUTViewer
 //
 //  Created by Artem Kalachev on 06/11/15.
 //  Copyright © 2015 Artem Kalachev. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "AKEpisode.h"
 
-@interface ViewController : UIViewController
-
+@implementation AKEpisode
 
 @end
-
